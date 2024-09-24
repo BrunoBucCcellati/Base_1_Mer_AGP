@@ -1,0 +1,4 @@
+﻿  BASE_AGP_1_MER.cpp
+C:\Users\maxim\source\repos\BASE_AGP_1_MER\BASE_AGP_1_MER.cpp(33,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\maxim\source\repos\BASE_AGP_1_MER\BASE_AGP_1_MER.cpp(38,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  BASE_AGP_1_MER.vcxproj -> C:\Users\maxim\source\repos\BASE_AGP_1_MER\x64\Debug\BASE_AGP_1_MER.exe
